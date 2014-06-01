@@ -1,3 +1,16 @@
+nltk3
+-----
+This is originally nltk project that is developed by Authors:see bellow.
+Originally this project is licensed under the Apache License, Version 2.0.
+So we inherit the license here as well. See LICENSE for more information.
+
+How to install
+------------
+
+
+Original Readme
+-------------
+
 Natural Language Toolkit (NLTK)   nltk.org
 
 Authors: Steven Bird <stevenbird1@gmail.com>
